@@ -57,7 +57,7 @@ export default function Container(props: any) {
         <div className='flex space-x-2 text-base items-center'>
           <Link href='/'>
             <a className='text-gray-600 hover:text-gray-900 dark:hover:text-gray-100 dark:text-gray-300'>
-              Home
+              DetaNews
             </a>
           </Link>
         </div>

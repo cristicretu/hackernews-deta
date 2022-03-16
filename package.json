@@ -77,11 +77,13 @@
   "dependencies": {
     "deta": "^1.1.0",
     "eslint-config-prettier": "^8.5.0",
+    "humanize-url": "^3.0.0",
     "next": "^12.1.0",
     "next-themes": "^0.0.15",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-use": "^17.3.1"
+    "react-use": "^17.3.1",
+    "swr": "^1.2.2"
   },
   "devDependencies": {
     "@types/node": "^17.0.21",
